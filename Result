@@ -1,0 +1,341 @@
+**************************************************************
+Use the main threads to compute the matrix
+Basic Matrix Computation 0 row:10000 column:10000
+	time:1814
+
+Basic Matrix Computation 1 row:10000 column:10000
+	time:1811
+
+Basic Matrix Computation 2 row:10000 column:10000
+	time:1571
+
+Basic Matrix Computation 3 row:10000 column:10000
+	time:1583
+
+Basic Matrix Computation 4 row:10000 column:10000
+	time:1570
+
+Basic Matrix Computation 5 row:10000 column:10000
+	time:1579
+
+Basic Matrix Computation 6 row:10000 column:10000
+	time:1562
+
+Basic Matrix Computation 7 row:10000 column:10000
+	time:1571
+
+Basic Matrix Computation 8 row:10000 column:10000
+	time:1582
+
+Basic Matrix Computation 9 row:10000 column:10000
+	time:1715
+
+
+Following results are computed by create new threads to compute the 
+results	
+****************************************************************
+Basic Matrix Computation 0 with 4 threads row:10000 column:10000
+	time:906
+
+Basic Matrix Computation 1 with 4 threads row:10000 column:10000
+	time:877
+
+Basic Matrix Computation 2 with 4 threads row:10000 column:10000
+	time:896
+
+Basic Matrix Computation 3 with 4 threads row:10000 column:10000
+	time:844
+
+Basic Matrix Computation 4 with 4 threads row:10000 column:10000
+	time:969
+
+Basic Matrix Computation 5 with 4 threads row:10000 column:10000
+	time:904
+
+Basic Matrix Computation 6 with 4 threads row:10000 column:10000
+	time:865
+
+Basic Matrix Computation 7 with 4 threads row:10000 column:10000
+	time:856
+
+Basic Matrix Computation 8 with 4 threads row:10000 column:10000
+	time:831
+
+Basic Matrix Computation 9 with 4 threads row:10000 column:10000
+	time:856
+
+****************************************************************
+Basic Matrix Computation 0 with 3 threads row:10000 column:10000
+	time:886
+
+Basic Matrix Computation 1 with 3 threads row:10000 column:10000
+	time:984
+
+Basic Matrix Computation 2 with 3 threads row:10000 column:10000
+	time:851
+
+Basic Matrix Computation 3 with 3 threads row:10000 column:10000
+	time:824
+
+Basic Matrix Computation 4 with 3 threads row:10000 column:10000
+	time:833
+
+Basic Matrix Computation 5 with 3 threads row:10000 column:10000
+	time:865
+
+Basic Matrix Computation 6 with 3 threads row:10000 column:10000
+	time:847
+
+Basic Matrix Computation 7 with 3 threads row:10000 column:10000
+	time:823
+
+Basic Matrix Computation 8 with 3 threads row:10000 column:10000
+	time:836
+
+Basic Matrix Computation 9 with 3 threads row:10000 column:10000
+	time:833
+***************************************************************
+Basic Matrix Computation 0 with 2 threads row:10000 column:10000
+	time:897
+
+Basic Matrix Computation 1 with 2 threads row:10000 column:10000
+	time:871
+
+Basic Matrix Computation 2 with 2 threads row:10000 column:10000
+	time:897
+
+Basic Matrix Computation 3 with 2 threads row:10000 column:10000
+	time:890
+
+Basic Matrix Computation 4 with 2 threads row:10000 column:10000
+	time:866
+
+Basic Matrix Computation 5 with 2 threads row:10000 column:10000
+	time:891
+
+Basic Matrix Computation 6 with 2 threads row:10000 column:10000
+	time:887
+
+Basic Matrix Computation 7 with 2 threads row:10000 column:10000
+	time:881
+
+Basic Matrix Computation 8 with 2 threads row:10000 column:10000
+	time:863
+
+Basic Matrix Computation 9 with 2 threads row:10000 column:10000
+	time:856
+***************************************************************
+Basic Matrix Computation 0 with 1 threads row:10000 column:10000
+	time:2268
+
+Basic Matrix Computation 1 with 1 threads row:10000 column:10000
+	time:1835
+
+Basic Matrix Computation 2 with 1 threads row:10000 column:10000
+	time:1589
+
+Basic Matrix Computation 3 with 1 threads row:10000 column:10000
+	time:1588
+
+Basic Matrix Computation 4 with 1 threads row:10000 column:10000
+	time:1576
+
+Basic Matrix Computation 5 with 1 threads row:10000 column:10000
+	time:1574
+
+Basic Matrix Computation 6 with 1 threads row:10000 column:10000
+	time:1575
+
+Basic Matrix Computation 7 with 1 threads row:10000 column:10000
+	time:1558
+
+Basic Matrix Computation 8 with 1 threads row:10000 column:10000
+	time:1589
+
+Basic Matrix Computation 9 with 1 threads row:10000 column:10000
+	time:1570
+
+**********************************************************************************************
+Matrix Computation By improving Cache hit 0 with 2 threads block size:10 row:10000 column:10000
+	time:917
+
+Matrix Computation By improving Cache hit 1 with 2 threads block size:10 row:10000 column:10000
+	time:888
+
+Matrix Computation By improving Cache hit 2 with 2 threads block size:10 row:10000 column:10000
+	time:929
+
+Matrix Computation By improving Cache hit 3 with 2 threads block size:10 row:10000 column:10000
+	time:998
+
+Matrix Computation By improving Cache hit 4 with 2 threads block size:10 row:10000 column:10000
+	time:887
+
+Matrix Computation By improving Cache hit 5 with 2 threads block size:10 row:10000 column:10000
+	time:942
+
+Matrix Computation By improving Cache hit 6 with 2 threads block size:10 row:10000 column:10000
+	time:847
+
+Matrix Computation By improving Cache hit 7 with 2 threads block size:10 row:10000 column:10000
+	time:844
+
+Matrix Computation By improving Cache hit 8 with 2 threads block size:10 row:10000 column:10000
+	time:820
+
+Matrix Computation By improving Cache hit 9 with 2 threads block size:10 row:10000 column:10000
+	time:818
+
+Matrix Computation By improving Cache hit 0 with 2 threads block size:20 row:10000 column:10000
+	time:898
+
+Matrix Computation By improving Cache hit 1 with 2 threads block size:20 row:10000 column:10000
+	time:903
+
+Matrix Computation By improving Cache hit 2 with 2 threads block size:20 row:10000 column:10000
+	time:811
+
+Matrix Computation By improving Cache hit 3 with 2 threads block size:20 row:10000 column:10000
+	time:831
+
+Matrix Computation By improving Cache hit 4 with 2 threads block size:20 row:10000 column:10000
+	time:824
+
+Matrix Computation By improving Cache hit 5 with 2 threads block size:20 row:10000 column:10000
+	time:819
+
+Matrix Computation By improving Cache hit 6 with 2 threads block size:20 row:10000 column:10000
+	time:823
+
+Matrix Computation By improving Cache hit 7 with 2 threads block size:20 row:10000 column:10000
+	time:852
+
+Matrix Computation By improving Cache hit 8 with 2 threads block size:20 row:10000 column:10000
+	time:975
+
+Matrix Computation By improving Cache hit 9 with 2 threads block size:20 row:10000 column:10000
+	time:943
+
+
+***********************************************************************************************
+Matrix Computation By improving Cache hit 0 with 2 threads block size:100 row:10000 column:10000
+	time:943
+
+Matrix Computation By improving Cache hit 1 with 2 threads block size:100 row:10000 column:10000
+	time:872
+
+Matrix Computation By improving Cache hit 2 with 2 threads block size:100 row:10000 column:10000
+	time:816
+
+Matrix Computation By improving Cache hit 3 with 2 threads block size:100 row:10000 column:10000
+	time:842
+
+Matrix Computation By improving Cache hit 4 with 2 threads block size:100 row:10000 column:10000
+	time:817
+
+Matrix Computation By improving Cache hit 5 with 2 threads block size:100 row:10000 column:10000
+	time:817
+
+Matrix Computation By improving Cache hit 6 with 2 threads block size:100 row:10000 column:10000
+	time:839
+
+Matrix Computation By improving Cache hit 7 with 2 threads block size:100 row:10000 column:10000
+	time:837
+
+Matrix Computation By improving Cache hit 8 with 2 threads block size:100 row:10000 column:10000
+	time:843
+
+Matrix Computation By improving Cache hit 9 with 2 threads block size:100 row:10000 column:10000
+	time:891
+
+***********************************************************************************************
+Matrix Computation By improving Cache hit 0 with 2 threads block size:200 row:10000 column:10000
+	time:925
+
+Matrix Computation By improving Cache hit 1 with 2 threads block size:200 row:10000 column:10000
+	time:828
+
+Matrix Computation By improving Cache hit 2 with 2 threads block size:200 row:10000 column:10000
+	time:931
+
+Matrix Computation By improving Cache hit 3 with 2 threads block size:200 row:10000 column:10000
+	time:830
+
+Matrix Computation By improving Cache hit 4 with 2 threads block size:200 row:10000 column:10000
+	time:827
+
+Matrix Computation By improving Cache hit 5 with 2 threads block size:200 row:10000 column:10000
+	time:834
+
+Matrix Computation By improving Cache hit 6 with 2 threads block size:200 row:10000 column:10000
+	time:841
+
+Matrix Computation By improving Cache hit 7 with 2 threads block size:200 row:10000 column:10000
+	time:825
+
+Matrix Computation By improving Cache hit 8 with 2 threads block size:200 row:10000 column:10000
+	time:845
+
+Matrix Computation By improving Cache hit 9 with 2 threads block size:200 row:10000 column:10000
+	time:827
+
+Matrix Computation By improving Cache hit 0 with 2 threads block size:500 row:10000 column:10000
+	time:1100
+
+Matrix Computation By improving Cache hit 1 with 2 threads block size:500 row:10000 column:10000
+	time:912
+
+Matrix Computation By improving Cache hit 2 with 2 threads block size:500 row:10000 column:10000
+	time:876
+
+Matrix Computation By improving Cache hit 3 with 2 threads block size:500 row:10000 column:10000
+	time:937
+
+Matrix Computation By improving Cache hit 4 with 2 threads block size:500 row:10000 column:10000
+	time:882
+
+Matrix Computation By improving Cache hit 5 with 2 threads block size:500 row:10000 column:10000
+	time:910
+
+Matrix Computation By improving Cache hit 6 with 2 threads block size:500 row:10000 column:10000
+	time:1032
+
+Matrix Computation By improving Cache hit 7 with 2 threads block size:500 row:10000 column:10000
+	time:914
+
+Matrix Computation By improving Cache hit 8 with 2 threads block size:500 row:10000 column:10000
+	time:822
+
+Matrix Computation By improving Cache hit 9 with 2 threads block size:500 row:10000 column:10000
+	time:818
+
+Matrix Computation By improving Cache hit 0 with 2 threads block size:4 row:10000 column:10000
+	time:895
+
+Matrix Computation By improving Cache hit 1 with 2 threads block size:4 row:10000 column:10000
+	time:938
+
+Matrix Computation By improving Cache hit 2 with 2 threads block size:4 row:10000 column:10000
+	time:827
+
+Matrix Computation By improving Cache hit 3 with 2 threads block size:4 row:10000 column:10000
+	time:822
+
+Matrix Computation By improving Cache hit 4 with 2 threads block size:4 row:10000 column:10000
+	time:830
+
+Matrix Computation By improving Cache hit 5 with 2 threads block size:4 row:10000 column:10000
+	time:992
+
+Matrix Computation By improving Cache hit 6 with 2 threads block size:4 row:10000 column:10000
+	time:1153
+
+Matrix Computation By improving Cache hit 7 with 2 threads block size:4 row:10000 column:10000
+	time:873
+
+Matrix Computation By improving Cache hit 8 with 2 threads block size:4 row:10000 column:10000
+	time:856
+
+Matrix Computation By improving Cache hit 9 with 2 threads block size:4 row:10000 column:10000
+	time:846
+
